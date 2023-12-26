@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 3px;
+}
+body{  background-color: rgb(49, 49, 49)}
+.req{
+   margin-top: 500px;
+    color: white;
+    margin: auto;
+}
+fieldset{
+    margin: auto;
+    width: 800px;
+}
+input{
+    margin-left: 10px;
+    width: 400px;
+}
+.reqq{  margin-left: 100px;}
+
+select{ margin-left: 11px;}
+
+#o1{  width: 20px;}
+
+#o2{  margin-left: 15px;}
+
+#o3{  margin-left: 22px;}
+
+.req select{ padding: 2px;}
+
+#o4{ width: 150px;}
+
+#o6{ width: 30px;}
+
+#o7{ margin-left: -12px;}
+
+#o9{ margin-left: -70px;}
+
+.button{
+    display: flex;
+    justify-content: center;}
+.button button{
+    margin-top: 8px;
+    width: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: forestgreen;
+    color: white;
+}
+.button p{
+    margin-top: 7px;
+    color: white;
+}
+button:hover{
+    background-color: gray;
+    color: black;
+}
+.flex{  margin-top: 150px;
+    box-shadow: 25px 25px 500px rgb(81, 81, 81);
+     background-color: rgb(36, 68, 128);
+     width: 900px;
+     margin: auto;
+     margin-top: 150px;
+    }
